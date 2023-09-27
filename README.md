@@ -22,7 +22,7 @@ The aims of this project is to show how it is possible to detect all the signs b
 
 With PyTorch, OpenCV and a public dataset on Roboflow I trained a customized version of the YOLOv8 model for real-time ASL letters detection.
 
-At the end, AI will permits you to recognize Sign Language, with real-time detection and written line in terminal.
+At the end, AI will permits you to recognize Sign Language, with real-time detection and a line written in terminal.
 
 # American Sign Language
 
