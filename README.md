@@ -35,5 +35,11 @@ Each letter represent exactly one class :
 - [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z]
 
 # YOLOv8
+- Checking whether YOLOv8 is intalled and it is working fine
+- Importing the American Sign Language Alphabets Dataset from Roboflow
+- Train the YOLOv8 Model on the Custom Dataset
+- Now, you can inference with Custom Model
 
 # Test
+Finally we can observe the result of the inference on the trained dataset (Letter A, for example):
+
