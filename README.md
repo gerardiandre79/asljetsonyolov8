@@ -6,7 +6,7 @@ This is a project for the Jetson Community and couldn't be possible without the 
   - https://developer.nvidia.com/embedded/community
   - https://forums.developer.nvidia.com/
     
-All the YoloV8 code and documentation can be found here:
+All the YOLOV8 code and documentation can be found here:
   - https://docs.ultralytics.com/
 
 # Index
