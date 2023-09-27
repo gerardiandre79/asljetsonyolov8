@@ -10,12 +10,12 @@ All the YoloV8 code and documentation can be found here:
   - https://docs.ultralytics.com/
 
 # Index
-0.  [Project Description]
-1.  [American Sign Language]
-2.  [Network Connection]
-3.  [Neural Network]
-4.  [Testing Letter]
-5.  [Conclusions]
+0.  [Project Description](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#project-description)
+1.  [American Sign Language](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#american-sign-language)
+2.  [Network Connection](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#network-connection)
+3.  [Neural Network](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#neural-network)
+4.  [Testing Letter](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#testing-letter)
+5.  [Conclusions](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#conclusions)
 
 # Project Description
 
