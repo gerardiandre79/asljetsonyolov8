@@ -14,7 +14,7 @@ All the YoloV8 code and documentation can be found here:
 1.  [American Sign Language](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#american-sign-language)
 2.  [Network Connection](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#network-connection)
 3.  [Neural Network](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#neural-network)
-4.  [Testing Letter](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#testing-letter)
+4.  [Test](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#testing-letter)
 5.  [Conclusions](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#conclusions)
 
 # Project Description
@@ -30,6 +30,6 @@ At the end, AI will permits you to recognize Sign Language, with real-time detec
 
 # Neural Network
 
-# Testing Letter
+# Test
    
 # Conclusions
