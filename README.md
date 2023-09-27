@@ -20,7 +20,7 @@ All the YoloV8 code and documentation can be found here:
 # Project Description
 The aims of this project is to show how it is possible to detect all the signs belonging to the American Sign Language automatically thanks to the capabilities of Nvidia Jetson Nano and YOLOv8.
 
-Therefore, exploiting PyTorch, OpenCV and a public dataset on Roboflow I trained a customized version of the YOLOv8 model for real-time ASL letters detection. This is not yet a model that can be used in real life, however, we are on that path.
+With PyTorch, OpenCV and a public dataset on Roboflow I trained a customized version of the YOLOv8 model for real-time ASL letters detection.
 
 At the end, AI will permits you to recognize Sign Language, with real-time detection and written line in terminal.
 
