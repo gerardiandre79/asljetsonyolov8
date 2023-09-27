@@ -42,7 +42,7 @@ Each letter represent exactly one class :
 
 # Test
 Finally we can observe the result of the inference on the trained dataset (Letter A, for example):
-![American Sign Language - Letter A](/images/electrocat.png)
+![American Sign Language - Letter A](/images/A22_jpg.rf.f02ad8558ce1c88213b4f83c0bc66bc8.jpg)
 
 
 
