@@ -1,5 +1,5 @@
 # American Sign Language detector - NVIDIA Jetson Nano
-American Sign Language detection with Jetson Nano and Yolov8
+American Sign Language detection with Jetson Nano and YOLOv8
 
 # Citations
 This is a project for the Jetson Community and couldn't be possible without the effort of other developers:
