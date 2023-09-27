@@ -11,10 +11,10 @@ All the YoloV8 code and documentation can be found here:
 
 # Index
 0.  [Project Description](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#project-description)
-1.  [American Sign Language](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#american-sign-language)
+1.  [Dataset](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#dataset)
 2.  [Network Connection](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#network-connection)
 3.  [Neural Network](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#neural-network)
-4.  [Test](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#testing-letter)
+4.  [Test](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#test)
 5.  [Conclusions](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#conclusions)
 
 # Project Description
@@ -24,7 +24,7 @@ With PyTorch, OpenCV and a public dataset on Roboflow I trained a customized ver
 
 At the end, AI will permits you to recognize Sign Language, with real-time detection and a line written in terminal.
 
-# American Sign Language
+# Dataset
 
 # Network Connection
 
