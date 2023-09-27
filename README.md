@@ -17,7 +17,6 @@ Literature related to American Sign Language (ASL):
 1.  [Dataset](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#dataset)
 2.  [YOLOv8](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#yolov8)
 3.  [Test](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#test)
-4.  [Conclusions](https://github.com/gerardiandre79/asljetsonyolov8/blob/main/README.md#conclusions)
 
 # Project Description
 The aims of this project is to show how it is possible to detect all the signs belonging to the American Sign Language automatically thanks to the capabilities of Nvidia Jetson Nano and YOLOv8.
@@ -38,5 +37,3 @@ Each letter represent exactly one class :
 # YOLOv8
 
 # Test
-   
-# Conclusions
