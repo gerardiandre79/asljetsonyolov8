@@ -1,7 +1,9 @@
 # American Sign Language detector - NVIDIA Jetson Nano
 American Sign Language detection with Jetson Nano and YOLOv8
 
-Hello World! I am using GIT :)
+Hello World! I am using GIT.
+
+This is my second commit.
 
 # Citations
 This is a project for the Jetson Community and couldn't be possible without the effort of other developers:
